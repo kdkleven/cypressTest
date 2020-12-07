@@ -1,10 +1,10 @@
 {
-  "projectId": "1u2a9u",
+  "projectId": "e7v3h8",
   "reporter": "cypress-testrail-reporter",
   "reporterOptions": {
     "host": "https://realogy.testrail.io",
     "username": "kkleven",
-    "password": "xra48/FHCmGyxz0qNuIT-99KWEqguqQEdNeIOJap",
+    "password": "xra48/FHCmGyxz0qNuIT-99KWEqguqQEdNeIOJap.",
     "projectId": 6,
     "suiteId": 8221
   }

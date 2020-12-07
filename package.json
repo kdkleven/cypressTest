@@ -1,22 +1,19 @@
 {
   "name": "cypresstest",
   "version": "1.0.0",
-  "description": "Test cypress working",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kyle",
-  "license": "ISC",
-  "dependencies": {
-    "cypress": "^6.0.1",
-    "pug": "^3.0.0"
-  },
-  "devDependencies": {
-    "minimatch": "^3.0.4"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kdkleven/cypressTest.git"
-  }
+    "url": "git+https://github.com/kdkleven/cypressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdkleven/cypressTest/issues"
+  },
+  "homepage": "https://github.com/kdkleven/cypressTest#readme"
 }
